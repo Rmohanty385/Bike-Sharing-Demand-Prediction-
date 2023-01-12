@@ -41,13 +41,28 @@ Attribute Information:
 • Holiday - Holiday/No holiday
 
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+## Steps involved
+Installing libraies and getting the dataset.
+Performing EDA (exploratory data analysis).
+Drawing conclusions from the data.
+Hypothesis Testing
+Feature Engineering and Preprocessing the data.
+Training different models.
+Evaluating metrics of all the models.
+Algorithms used
+Linear Regression
+Decision Tree Regressor
+Random Forest Regressor
+Gradient Boosting
+XG Boosting
 ## Conclusion
 
 Linear Regression gave underfitted model as the feature relation with the target variable was non-linear one.
 
 Also the lasso and ridge were not helpfull as the model did not overfitted it underfitted due to non-linear relationship.
 
-###Decision Tree
+### Decision Tree
 
 Decision Tree gave good increase in R2 score as compared to linear regression.
 
