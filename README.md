@@ -44,33 +44,35 @@ Attribute Information:
 
 ## Steps involved
 
-Installing libraies and getting the dataset.
+ • Installing libraies and getting the dataset.
 
-Performing EDA (exploratory data analysis).
+ • Performing EDA (exploratory data analysis).
 
-Drawing conclusions from the data.
+ • Drawing conclusions from the data.
 
-Hypothesis Testing
+ • Hypothesis Testing
 
-Feature Engineering and Preprocessing the data.
+ • Feature Engineering and Preprocessing the data.
 
-Training different models.
+ • Training different models.
 
-Evaluating metrics of all the models.
+ • Evaluating metrics of all the models.
 
-Algorithms used
+### Algorithms used
 
-Linear Regression
+ • Linear Regression
 
-Decision Tree Regressor
+ • Decision Tree Regressor
 
-Random Forest Regressor
+ • Random Forest Regressor
 
-Gradient Boosting
+ • Gradient Boosting
 
-XG Boosting
+ • XG Boosting
 
 ## Conclusion
+
+### Linear Regression
 
 Linear Regression gave underfitted model as the feature relation with the target variable was non-linear one.
 
