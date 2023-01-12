@@ -43,19 +43,33 @@ Attribute Information:
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 ## Steps involved
+
 Installing libraies and getting the dataset.
+
 Performing EDA (exploratory data analysis).
+
 Drawing conclusions from the data.
+
 Hypothesis Testing
+
 Feature Engineering and Preprocessing the data.
+
 Training different models.
+
 Evaluating metrics of all the models.
+
 Algorithms used
+
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
+
 Gradient Boosting
+
 XG Boosting
+
 ## Conclusion
 
 Linear Regression gave underfitted model as the feature relation with the target variable was non-linear one.
